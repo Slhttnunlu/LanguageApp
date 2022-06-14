@@ -12,7 +12,7 @@
  
  https://user-images.githubusercontent.com/100679214/173697500-cede8ea8-cf6e-4e40-a784-3d9d4ddfb4ab.mp4
  
-
+# Açıklama
 - Uygulama temelde eşleştirme oyunu olarak çalışır,
 - ing-türkçe olarak rasgele sıralanmış 8 adet renkleri birbiri ile eşleştirmemiz gerekir,
 - doğru seçim yaptığımızda ilgili renk butonları ekrandan kaybolur,
