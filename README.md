@@ -1,28 +1,16 @@
 ## LanguageApp 
 <table>
   <tr>
-    <td> <b> Listing Recipes </b> </td>
+    <td> <b> Renk Eşleştirme </b> </td>
+    <td> <b> Kategoriler </b> </td>
   </tr>
   <tr>
-    <td valign="top"><img src=https://user-images.githubusercontent.com/100679214/173697495-601dd9c1-764d-4a51-86c5-2721809aa826.jpeg  height="480" width="270"></td>
+     <td valign="top"><img src=https://user-images.githubusercontent.com/100679214/173697495-601dd9c1-764d-4a51-86c5-2721809aa826.jpeg height="480" width="270"<br>
+     <td valign="top"><img src=https://user-images.githubusercontent.com/100679214/173697497-cf9f80a1-1162-4e94-bfc2-11de7f067ada.jpeg height="480" width="270"<br>
   </tr>
  </table>
- <table>
-  <tr>
-    <td> <b> Listing Recipes </b> </td>
-  </tr>
-  <tr>
-    <td valign="top"><img src=https://user-images.githubusercontent.com/100679214/173697497-cf9f80a1-1162-4e94-bfc2-11de7f067ada.jpeg  height="480" width="270"></td>
-  </tr>
- </table>
- <table>
-  <tr>
-    <td> <b> Listing Recipes </b> </td>
-  </tr>
-  <tr>
-    <td valign="top"><img src=https://user-images.githubusercontent.com/100679214/173697500-cede8ea8-cf6e-4e40-a784-3d9d4ddfb4ab.mp4  height="480" width="270"></td>
-  </tr>
- </table>
+ 
+ https://user-images.githubusercontent.com/100679214/173697500-cede8ea8-cf6e-4e40-a784-3d9d4ddfb4ab.mp4
  
 
 - Uygulama temelde eşleştirme oyunu olarak çalışır,
