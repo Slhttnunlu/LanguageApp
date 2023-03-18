@@ -12,9 +12,9 @@
  
  https://user-images.githubusercontent.com/100679214/173697500-cede8ea8-cf6e-4e40-a784-3d9d4ddfb4ab.mp4
  
-# Açıklama
-- Uygulama temelde eşleştirme oyunu olarak çalışır,
-- ing-türkçe olarak rasgele sıralanmış 8 adet renkleri birbiri ile eşleştirmemiz gerekir,
-- doğru seçim yaptığımızda ilgili renk butonları ekrandan kaybolur,
-- ayrıca CatagoryActivity.xml dosyasında Hayvanlar, Sayılar, Eşyalar kategorileride vardır fakat bunların kod kısmı henüz oluşurulmamıştır,
-- ama temelde diğer kategorilerinde çalışma mantığı MainActivity.java dosyasındanki kodlarla aynı olacaktır.
+# Description
+- The application basically works as a matching game,
+- You need to match 8 randomly ordered colours with each other in English-Turkish,
+- When we make the correct selection, the relevant colour buttons disappear from the screen,
+- There are also Animals, Numbers, Goods categories in the CatagoryActivity.xml file, but these parts are not coded yet.
+- Since the working logic of the other categories will be the same as the codes from the MainActivity.java file, you can simply create it if you want to use it.
