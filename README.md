@@ -1,8 +1,8 @@
 ## LanguageApp 
 <table>
   <tr>
-    <td> <b> Renk Eşleştirme </b> </td>
-    <td> <b> Kategoriler </b> </td>
+    <td> <b> Colour Matching (Turkish - English) </b> </td>
+    <td> <b> Main Menu </b> </td>
   </tr>
   <tr>
      <td valign="top"><img src=https://user-images.githubusercontent.com/100679214/173697495-601dd9c1-764d-4a51-86c5-2721809aa826.jpeg height="480" width="270"<br>
